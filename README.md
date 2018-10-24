@@ -34,7 +34,7 @@ Click [**here**](https://github.com/8bitPit/Niagara-Issues/issues "Issues") to b
 [Telegram group](https://t.me/niagara_launcher "niagara_launcher")
 
 ### Download Links
-- [via PlaStore](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
+- [via PlayStore](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
 - [download APK directly](https://github.com/8bitPit/Niagara-Issues/releases "via GitHub")
 
 Have fun using Niagara :)
