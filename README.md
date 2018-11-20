@@ -7,7 +7,6 @@ So please consider looking at the list below and take use of GitHub's search too
 ### Most requested features / occurring issues
 <ol>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/117">Widgets</a></li>
-  <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/4">Ability to change individual icons</a></li>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/55">At a glance / calendar appointments in home screen</a></li> 
   <li><a href="https//github.com/8bitPit/Niagara-Issues/issues/13">Folders / Categories</a></li>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/485">Media player not working</a></li>
