@@ -19,11 +19,14 @@ So please consider looking at the list below and take use of GitHub's search too
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/122">Swipe up gesture (e.g. to open the app list)</a></li>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/101">Option to hide status bar / notification bar</a> &amp; <a href="https://github.com/8bitPit/Niagara-Issues/issues/43">navigation bar</a></li>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/191">Custom fonts</a></li>
+  
+  <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/588">Notifications not showing</a></li>
+  <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/332">Password protection</a></li>
 </ol>
 
 ### Request a new issue
 
-Click [**here**](https://github.com/8bitPit/Niagara-Issues/issues "Issues") to browse the issue page and please check if someone else already requested your idea/concern (use GitHub's search function). If it doesn't exist already, click on "New issue" to create a request/report.
+Click [**here**](https://github.com/8bitPit/Niagara-Issues/issues "Issues") to browse all issues page and please check if someone else already requested your idea/concern (use GitHub's search function). If it doesn't exist already, click on "New issue" to create a request/report.
 
 ### Upcoming features
 [Roadmap](https://github.com/8bitPit/Niagara-Issues/releases)
