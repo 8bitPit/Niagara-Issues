@@ -1,4 +1,6 @@
 # Niagara-Issues
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/niagara-launcher/localized.svg)](https://crowdin.com/project/niagara-launcher)
+
 ## A place to post bugfixes & feature requests for [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
 
 ### We're getting a lot of duplicate issues
