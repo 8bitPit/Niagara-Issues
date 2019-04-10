@@ -5,8 +5,7 @@ A place to post bugfixes & feature requests for [Niagara Launcher](https://play.
 
 ### Request a feature request / bug report
 We're getting a lot of duplicate issues.</br>
-So please consider looking at the list below and take use of GitHub's [**search tool**](https://github.com/8bitPit/Niagara-Issues/issues "Browse issues"), maybe your request was already submitted. Thank you. </br>
-Otherwise, click [**here**](https://github.com/8bitPit/Niagara-Issues/issues/new/choose "New issue") create a new issue and describe it as detailed as possible. 
+So please consider looking at the list below and take use of GitHub's [**search tool**](https://github.com/8bitPit/Niagara-Issues/issues "Browse issues"), maybe your request was already submitted. Thank you. Otherwise, click [**here to create a new issue**](https://github.com/8bitPit/Niagara-Issues/issues/new/choose "New issue") and describe it as detailed as possible. 
 
 ### Most requested features
 <ol>
@@ -20,7 +19,6 @@ Otherwise, click [**here**](https://github.com/8bitPit/Niagara-Issues/issues/new
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/55">At a glance widget</a></li> 
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/179">Weather without using location service</a></li>
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/3">Google Now / Google Feed </a></li>
-  <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/58">Web search</a></li>
 </ol>
 
 ### Most occurring issues
