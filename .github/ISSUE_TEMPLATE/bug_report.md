@@ -1,11 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-
----
-
-## We're getting a lot of duplicate issues.
-**Please use GitHub's search function to locate existing tickets and contribute to these instead of opening another one.**
+about: Create a report when something isn't working
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
@@ -19,15 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
 **Smartphone (please complete the following information):**
  - Device: [e.g. Essential Phone]
- - OS: [e.g. Android 9 (Pie)]
- 
-**Additional context**
-Add any other context about the problem here.
+ - Android version: [e.g. Android 9 (Pie)]
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem. You can paste them here directly.
