@@ -29,7 +29,7 @@ So please consider looking at the list below and take use of GitHub's [**search 
 </ol>
 
 ### Upcoming features
-[Roadmap](https://github.com/8bitPit/Niagara-Issues/releases)
+[Roadmap](https://github.com/8bitPit/Niagara-Issues/projects/1)
 
 ### Links
 - [Download in Play Store](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
