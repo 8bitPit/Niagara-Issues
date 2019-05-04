@@ -3,6 +3,10 @@
 
 A place to post bugfixes & feature requests for [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store"), a minimal Android homescreen app.
 
+### Roadmap
+
+Click [**here**](https://github.com/8bitPit/Niagara-Issues/projects/2) to see the most requested features.
+
 ### How to request a feature / file a bug report
 We're getting a lot of duplicate issues.</br>
 So please consider looking at the list below and take use of GitHub's [**search tool**](https://github.com/8bitPit/Niagara-Issues/issues "Browse issues"), maybe your request was already submitted. Thank you. Otherwise, click [**here to create a new issue**](https://github.com/8bitPit/Niagara-Issues/issues/new/choose "New issue") and describe it as detailed as possible. 
