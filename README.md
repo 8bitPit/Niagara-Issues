@@ -32,9 +32,6 @@ So please consider looking at the list below and take use of GitHub's [**search 
   <li><a href="https://github.com/8bitPit/Niagara-Issues/issues/588">Notifications not showing</a></li>
 </ol>
 
-### Upcoming features
-[Roadmap](https://github.com/8bitPit/Niagara-Issues/projects/1)
-
 ### Links
 - [Download in Play Store](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
 - [Download APK directly](https://github.com/8bitPit/Niagara-Issues/releases "via GitHub")
