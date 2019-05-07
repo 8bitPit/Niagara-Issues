@@ -1,11 +1,9 @@
 # Niagara-Issues
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/niagara-launcher/localized.svg)](https://crowdin.com/project/niagara-launcher)
 
-A place to post bugfixes & feature requests for [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store"), a minimal Android homescreen app.
+A place to post feature requests & bug reports for the minimal homesceen app [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Download in Play Store").
 
-### Explore feature requests
-
-Click [**here**](https://github.com/8bitPit/Niagara-Issues/projects/2) to see the most requested features. 
+**Click [here](https://github.com/8bitPit/Niagara-Issues/projects/2) to explore the most requested features.** 
 
 ### How to request a feature / file a bug report
 We're getting a lot of duplicate issues.</br>
@@ -35,6 +33,7 @@ So please consider looking at the list below and take use of GitHub's [**search 
 ### Links
 - [Download in Play Store](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
 - [Download APK directly](https://github.com/8bitPit/Niagara-Issues/releases "via GitHub")
+- [Twitter](https://twitter.com/NiagaraLauncher) 
 - [Discussion group on Telegram](https://t.me/niagara_launcher)
 
 Have fun using Niagara :)
