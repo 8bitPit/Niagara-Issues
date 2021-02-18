@@ -1,6 +1,6 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/niagara-launcher/localized.svg)](https://crowdin.com/project/niagara-launcher)
 
-A place to post feature requests & bug reports for the minimal homesceen app [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Download in Play Store").
+A place to post feature requests & bug reports for the minimal homesceen app [Niagara Launcher](https://niagaralauncher.app/).
 
 **Click [here](https://github.com/8bitPit/Niagara-Issues/projects/2) to explore the most requested features.** 
 
