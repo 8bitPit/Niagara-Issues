@@ -1,6 +1,6 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/niagara-launcher/localized.svg)](https://crowdin.com/project/niagara-launcher)
 
-A place to post feature requests & bug reports for the minimal homesceen app [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher "Download in Play Store").
+A place to post feature requests & bug reports for the minimal homesceen app [Niagara Launcher](https://niagaralauncher.app/).
 
 **Click [here](https://github.com/8bitPit/Niagara-Issues/projects/2) to explore the most requested features.** 
 
@@ -30,6 +30,7 @@ So please consider looking at the list below and take use of GitHub's [**search 
 </ol>
 
 ### Links
+- [Our Website](https://niagaralauncher.app/)
 - [Download in Play Store](https://play.google.com/store/apps/details?id=bitpit.launcher "Play Store")
 - [Download APK directly](https://github.com/8bitPit/Niagara-Issues/releases "via GitHub")
 - [Twitter](https://twitter.com/NiagaraLauncher) 
