@@ -4,6 +4,9 @@ labels:
   - bug
 
 body:
+  - type: markdown
+    attributes:
+      value: "## Information about the bug"
   - type: textarea
     attributes:
       label: Describe the bug
