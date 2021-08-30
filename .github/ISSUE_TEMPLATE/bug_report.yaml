@@ -1,0 +1,58 @@
+name: Bug report
+description: Create a report when something isn't working
+labels:
+  - bug
+
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Steps to reproduce the behaviour
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      - value: "## Information about your device"
+  - type: input
+    attributes:
+        label: Device Name
+        description: Manufacturer and model of your device
+        placeholder: e.g. Google Pixel 5
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Android version
+      description: "[Click here if you need help determining your Android version](https://support.google.com/android/answer/7680439)"
+      options:
+        - Android 5.0 (Lollipop)
+        - Android 5.1 (Lollipop)
+        - Android 6.0 (Marshmallow)
+        - Android 7.0 (Nougat)
+        - Android 7.1 (Nougat)
+        - Android 8.0 (Oreo)
+        - Android 8.1 (Oreo)
+        - Android 9 (Pie)
+        - Android 10
+        - Android 11
+        - Android 12
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshots / Screenrecordings
+      description: If applicable, add screenshots or screenrecordings to help explain your problem. You can paste them here directly.
+    validations:
+      required: false
