@@ -38,8 +38,7 @@ body:
   - type: dropdown
     attributes:
       label: Android version
-      # need to use a HTML link here to set target in order to open the link in a new tab
-      description: '<a href="https://support.google.com/android/answer/7680439" target="_blank">Click here if you need help determining your Android version</a>'
+      description: "[Click here if you need help determining your Android version (open this using CTRL+Click)](https://support.google.com/android/answer/7680439)"
       options:
         - Android 5.0 (Lollipop)
         - Android 5.1 (Lollipop)
