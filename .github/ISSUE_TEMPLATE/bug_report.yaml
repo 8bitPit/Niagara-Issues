@@ -24,7 +24,7 @@ body:
 
   - type: markdown
     attributes:
-      - value: "## Information about your device"
+      value: "## Information about your device"
   - type: input
     attributes:
         label: Device Name
