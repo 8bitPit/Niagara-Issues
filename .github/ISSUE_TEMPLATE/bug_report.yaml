@@ -9,13 +9,13 @@ body:
       value: "## Information about the bug"
   - type: textarea
     attributes:
-      label: Describe The Bug
+      label: Describe the bug
       description: A clear and concise description of the bug
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Steps To Reproduce
+      label: Steps to reproduce
       description: Steps to reproduce the behaviour
       placeholder: |
         1. Go to '...'
@@ -30,14 +30,14 @@ body:
       value: "## Information about your device"
   - type: input
     attributes:
-        label: Device Name
+        label: Device name
         description: Manufacturer and model of your device
         placeholder: e.g. Google Pixel 5
     validations:
       required: true
   - type: dropdown
     attributes:
-      label: Android Version
+      label: Android version
       description: "[Click here if you need help determining your Android version (open this using CTRL+Click)](https://support.google.com/android/answer/7680439)"
       options:
         - Android 5.0 (Lollipop)
@@ -58,7 +58,7 @@ body:
       value: "---"
   - type: textarea
     attributes:
-      label: Screenshots / Screen Recordings
+      label: Screenshots / Screen recordings
       description: If applicable, add screenshots or -recordings to help explain your problem. You can paste them here directly.
     validations:
       required: false
