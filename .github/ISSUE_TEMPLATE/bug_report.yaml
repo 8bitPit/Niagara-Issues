@@ -9,13 +9,13 @@ body:
       value: "## Information about the bug"
   - type: textarea
     attributes:
-      label: Describe the bug
+      label: Describe The Bug
       description: A clear and concise description of what the bug is.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Steps to reproduce
+      label: Steps To Reproduce
       description: Steps to reproduce the behaviour
       placeholder: |
         1. Go to '...'
@@ -37,7 +37,7 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: Android version
+      label: Android Version
       description: "[Click here if you need help determining your Android version (open this using CTRL+Click)](https://support.google.com/android/answer/7680439)"
       options:
         - Android 5.0 (Lollipop)
@@ -58,7 +58,7 @@ body:
       value: "---"
   - type: textarea
     attributes:
-      label: Screenshots / Screenrecordings
-      description: If applicable, add screenshots or screenrecordings to help explain your problem. You can paste them here directly.
+      label: Screenshots / Screen Recordings
+      description: If applicable, add screenshots or -recordings to help explain your problem. You can paste them here directly.
     validations:
       required: false

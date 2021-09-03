@@ -5,11 +5,12 @@ body:
   - type: textarea
     attributes:
       label: Is your feature request related to a problem?
-      description: A clear and concise description of what the problem is.
+      description: A clear and concise description of the problem.
       placeholder: e.g. I'm always frustrated when [...]
   - type: markdown
     attributes:
       value: |
+        ---
         > ### Please remember: a feature should be...
         > **Simple** · Easy to configure and easy to use. As few settings & toggles as possible.
         > **Impactful** · Either appealing for many or necessary for some.
