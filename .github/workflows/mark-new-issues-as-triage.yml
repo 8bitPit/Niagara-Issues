@@ -1,0 +1,19 @@
+name: Mark new issues for moderation
+on:
+  issues:
+    types:
+      - opened
+jobs:
+  label_issue:
+    runs-on: ubuntu-latest
+    name: Label issue
+    steps:
+      #      - name: Simple Issue Labeler
+      #        uses: andymckay/labeler@1.0.4
+      #        with:
+      #          add-labels: "in-moderation"
+      - name: 'Auto-assign issue'
+        uses: pozil/auto-assign-issue@v1.4.0
+        with:
+          assignees: Oddward
+
