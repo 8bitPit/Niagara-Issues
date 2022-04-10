@@ -2,6 +2,10 @@ name: Feature request
 description: Suggest an idea
 
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Please read our [knowledge base article on feature requests](https://help.niagaralauncher.app/article/44-feature-requests) before submitting your feature request
   - type: textarea
     attributes:
       label: Is your feature request related to a problem?
@@ -17,10 +21,16 @@ body:
         **Universal** · Has to work everywhere: in every country, on all phones.
         **Independent** · Doesn’t add complexity if it’s not being used.
 
-        _[Click here to read the full knowledge base article about Niagara's design principles](https://help.niagaralauncher.app/article/8-niagaras-design-principles)_
+        _[Click here to read the full knowledge base article about Niagara Launcher's design principles](https://help.niagaralauncher.app/article/8-niagaras-design-principles)_
   - type: textarea
     attributes:
       label: Describe the solution you'd like
       description: A clear and concise description of what you want to happen.
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Feature Request Procedure
+      options:
+        - label: I have read the [knowledge base article on feature requests](https://help.niagaralauncher.app/article/44-feature-requests) and followed the steps mentioned
+          required: true
