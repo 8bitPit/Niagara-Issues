@@ -13,7 +13,7 @@ jobs:
       #        with:
       #          add-labels: "in-moderation"
       - name: 'Auto-assign issue'
-        uses: pozil/auto-assign-issue@0ee0e95e4cc4752546922ac94e72cc2294fb301b # tag=v1.8.0
+        uses: pozil/auto-assign-issue@f04c62d1f5dbc53c4bd013e288199958ca6fe1a9 # tag=v1.10.0
         with:
           assignees: Oddward
 
