@@ -24,7 +24,24 @@ body:
         4. See error
     validations:
       required: true
-
+  - type: dropdown
+    attributes:
+      label: Does the issue also occur with other 3rd-party launchers?
+      description: |
+        Many issues (e.g. with gesture navigation or the recent apps screen) are not caused by Niagara Launcher itself, but rather by the surrounding Android OS. 
+        Testing with other launchers gives us a clue if the issue is caused by Niagara Launcher or not.
+        Examples for popular 3rd-party launchers are (open using CTRL/⌘+Click): [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher) or [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree).
+      multiple: false
+      options:
+        - "Problem occurs with other launchers"
+        - "Problem doesn't occur with other launchers"
+        - "Not applicable"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Other 3rd-party launcher(s) tested
+      description: Please list the name(s) of the other launcher(s) you've tested. (Leave blank if not applicable)
   - type: markdown
     attributes:
       value: "## Information about your device"
@@ -38,7 +55,7 @@ body:
   - type: dropdown
     attributes:
       label: Android version
-      description: "[Click here if you need help determining your Android version (open this using CTRL+Click)](https://support.google.com/android/answer/7680439)"
+      description: "[Click here if you need help determining your Android version (open this using CTRL/⌘+Click)](https://support.google.com/android/answer/7680439)"
       options:
         - Android 5.0 (Lollipop)
         - Android 5.1 (Lollipop)
@@ -51,6 +68,7 @@ body:
         - Android 10
         - Android 11
         - Android 12
+        - Android 13
     validations:
       required: true
   - type: markdown
