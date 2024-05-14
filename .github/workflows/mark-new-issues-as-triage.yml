@@ -13,7 +13,7 @@ jobs:
       #        with:
       #          add-labels: "in-moderation"
       - name: 'Auto-assign issue'
-        uses: pozil/auto-assign-issue@edee9537367a8fbc625d27f9e10aa8bad47b8723 # v1.13.0
+        uses: pozil/auto-assign-issue@c5bca5027e680b9e8411b826d16947afd8c76b32 # v2.0.0
         with:
           assignees: Amorphous404
 
