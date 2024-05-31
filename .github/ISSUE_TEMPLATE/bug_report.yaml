@@ -70,6 +70,7 @@ body:
         - Android 12
         - Android 13
         - Android 14
+        - Android 15
     validations:
       required: true
   - type: markdown
